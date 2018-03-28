@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_electronics"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@drawable/nav_home_icon"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_clothing"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@mipmap/clothing_icon"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_global"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@mipmap/globalstore_mipmap"
+        android:title="@string/title_offer" />
+
+    <item
+        android:id="@+id/navigation_flight"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@mipmap/flightstay_logo"
+        android:title="@string/title_notifications" />
+    <item
+        android:id="@+id/navigation_others"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@mipmap/nav_more"
+        android:title="@string/title_others" />
+
+</menu>

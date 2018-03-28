@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drop_10"
+        android:title="@string/when_price_drops_by_10" />
+    <item
+        android:id="@+id/drop_25"
+        android:title="@string/when_price_drops_by_25" />
+    <item
+        android:id="@+id/drop_50"
+        android:title="@string/when_price_drops_by_50" />
+    <item
+        android:id="@+id/drop_75"
+        android:title="@string/when_price_drops_by_75" />
+    <item
+        android:id="@+id/drop_any"
+        android:title="@string/any_price_drop" />
+
+</menu>

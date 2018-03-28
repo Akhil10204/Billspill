@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">BillSpill</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_arbit_shit">ArbitShit</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_profile">Clothing</string>
+    <string name="title_offer">Other Global Stores</string>
+    <string name="title_notifications">Stay &amp; Travel</string>
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="search_title">Search</string>
+    <string name="accessibility_service_description">For smooth shooping experiences please turn it on</string>
+    <string name="when_price_drops_by_10">price drops by 10%</string>
+    <string name="when_price_drops_by_25">price drops by 25%</string>
+    <string name="when_price_drops_by_50">price drops by 50%</string>
+    <string name="when_price_drops_by_75">price drops by 75%</string>
+    <string name="any_price_drop">Any price drop</string>
+    <string name="title_customize">BillSpill Comparison</string>
+    <string name="title_clothing">Clothing</string>
+    <string name="title_global">Global Stores</string>
+    <string name="title_other">Other Stores</string>
+    <string name="title_flight">Flight &amp; Stay</string>
+    <string-array name="dropdownmenu">
+        <item>Price drops by 10%</item>
+        <item>Price drops by 25%</item>
+        <item>Price drops by 50%</item>
+        <item>Price drops by 75%</item>
+        <item>Any price drop</item>
+
+    </string-array>
+    <string-array name="querymenu">
+        <item>Select your issue</item>
+        <item>Application</item>
+        <item>Offers</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="storedownone">
+        <item>Amazon</item>
+        <item>Flipkart</item>
+        <item>Snapdeal</item>
+        <item>Paytm</item>
+        <item>Myntra</item>
+        <item>Jabong</item>
+        <item>Faballey</item>
+        <item>Stalk Buy Love</item>
+        <item>Ebay</item>
+        <item>TataCliq</item>
+        <item>HomeShop18</item>
+        <item>Paytm Mall</item>
+        <item>ShopClues</item>
+        <item>Industry Buying</item>
+        <item>PrintVenue</item>
+    </string-array>
+    <string-array name="storedowntwo">
+        <item>Myntra</item>
+        <item>Flipkart</item>
+        <item>Snapdeal</item>
+        <item>Paytm</item>
+        <item>Amazon</item>
+        <item>Jabong</item>
+        <item>Faballey</item>
+        <item>Stalk Buy Love</item>
+        <item>Ebay</item>
+        <item>TataCliq</item>
+        <item>HomeShop18</item>
+        <item>Paytm Mall</item>
+        <item>ShopClues</item>
+        <item>Industry Buying</item>
+        <item>PrintVenue</item>
+    </string-array>
+    <string-array name="storedownthree">
+        <item>Ebay</item>
+        <item>Flipkart</item>
+        <item>Snapdeal</item>
+        <item>Paytm</item>
+        <item>Myntra</item>
+        <item>Jabong</item>
+        <item>Faballey</item>
+        <item>Stalk Buy Love</item>
+        <item>Amazon</item>
+        <item>TataCliq</item>
+        <item>HomeShop18</item>
+        <item>Paytm Mall</item>
+        <item>ShopClues</item>
+        <item>Industry Buying</item>
+        <item>PrintVenue</item>
+    </string-array>
+    <string-array name="storedownfour">
+        <item>ShopClues</item>
+        <item>Flipkart</item>
+        <item>Snapdeal</item>
+        <item>Paytm</item>
+        <item>Myntra</item>
+        <item>Jabong</item>
+        <item>Faballey</item>
+        <item>Stalk Buy Love</item>
+        <item>Ebay</item>
+        <item>TataCliq</item>
+        <item>HomeShop18</item>
+        <item>Paytm Mall</item>
+        <item>Amazon</item>
+        <item>Industry Buying</item>
+        <item>PrintVenue</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabbed_main">TabbedMainActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_clothing_tabbed">ClothingTabbedActivity</string>
+    <string name="title_activity_others_tabbed">OthersTabbed</string>
+    <string name="title_others">Other Stores</string>
+    <string name="title_activity_other_tabbed">OtherTabbedActivity</string>
+    <string name="title_activity_tabbed_store_result">TabbedStoreResult</string>
+    <string name="title_activity_tabbed_flight">TabbedFlightActivity</string>
+    <string name="global_search">Global Search</string>
+    <string name="top_offers">Top 10 Offers</string>
+    <string name="top_products">Top 10 Products</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="refer_a_friend">Refer a friend</string>
+    <string name="about_us">About</string>
+    <string name="blog">Blog</string>
+    <string name="content_aboutus">This assistant is a Master App that helps you to Compare Prices among different major websites and provides you many features like BillSpill search, Price drop alert and best offers and deals present in all online stores.</string>
+    <string name="support">Support</string>
+
+</resources>

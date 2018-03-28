@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "799411777572",
+    "firebase_url": "https://billspill-b7f3a.firebaseio.com",
+    "project_id": "billspill-b7f3a",
+    "storage_bucket": "billspill-b7f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799411777572:android:9e2d03e7d9ef6082",
+        "android_client_info": {
+          "package_name": "com.billspillstore.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799411777572-li5m5hi2138cvvlvb6ltenuho98u2k7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billspillstore.android",
+            "certificate_hash": "b4f0f8b5c3acbe04c864fbe1ed0cd821ead3f443"
+          }
+        },
+        {
+          "client_id": "799411777572-jouuvlmm1rr6js9qu86ip2ep7mbj46ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billspillstore.android",
+            "certificate_hash": "8350687eaee326072c85337b2964e157fe8a5415"
+          }
+        },
+        {
+          "client_id": "799411777572-7u5iial913auhulk7hq1tggdi15im7r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJgpEkNbl92i-fAmGRgNwuKbp-BsMu8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799411777572-7u5iial913auhulk7hq1tggdi15im7r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799411777572:android:d27285d5e2d3b104",
+        "android_client_info": {
+          "package_name": "com.billspillstore.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799411777572-lluvep9qn1edika9klg7s0lchicmkb8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billspillstore.android",
+            "certificate_hash": "098d4901bf2c0c081e4db339630bfe6edcc899c9"
+          }
+        },
+        {
+          "client_id": "799411777572-1jvcprjrqs0rmticgcqhs0vfb9md6gt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.billspillstore.android",
+            "certificate_hash": "11d1a905560d71020266c0e35de6f205566e0b8d"
+          }
+        },
+        {
+          "client_id": "799411777572-7u5iial913auhulk7hq1tggdi15im7r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJgpEkNbl92i-fAmGRgNwuKbp-BsMu8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799411777572-7u5iial913auhulk7hq1tggdi15im7r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.billspillstore.android.MenuAboutus">
+
+    <TextView
+        android:id="@+id/text"
+        android:text="Note: "
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="false"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_toRightOf="@+id/text"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="4dp"
+        android:text="Make sure you provide Accessibility permission."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textview"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+android:layout_below="@+id/text"
+        android:textSize="16sp"
+        android:text="@string/content_aboutus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_marginTop="30dp"
+        android:layout_below="@id/textview"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/facebook"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="65dp"
+            android:src="@drawable/usfacebook"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+        <ImageView
+            android:id="@+id/twitter"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="30dp"
+            android:src="@drawable/ustwitter"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+        <ImageView
+            android:id="@+id/google"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="30dp"
+            android:src="@drawable/usgoogle"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+        <ImageView
+            android:id="@+id/linkedin"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="30dp"
+            android:src="@drawable/uslinkedin"
+            android:layout_width="40dp"
+            android:layout_height="40dp" />
+
+
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/image1"
+       android:layout_marginTop="60dp"
+        android:src="@drawable/abouticon"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="10dp"
+        android:layout_below="@+id/linear"
+        android:layout_width="150dp"
+        android:layout_height="70dp" />
+
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_below="@+id/image1"
+        android:layout_marginEnd="10dp"
+        android:text="Contact us:"
+        android:textColor="@android:color/darker_gray"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/text3"
+        android:layout_below="@+id/text2"
+        android:layout_marginEnd="10dp"
+        android:layout_alignParentEnd="true"
+        android:text="assistant@billspill.com"
+        android:textColor="@android:color/darker_gray"
+        android:layout_marginTop="4dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_marginStart="20dp"
+        android:src="@drawable/extension"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/image1"
+        android:layout_width="155dp"
+        android:layout_height="60dp" />
+    <TextView
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Copyright © 2017, Billspill, All Rights Reserved"
+        android:textColor="@android:color/darker_gray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</RelativeLayout>

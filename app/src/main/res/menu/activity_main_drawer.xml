@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_mobile"
+        android:title="Mobile &amp; Tablets"
+        android:icon="@drawable/icon_mobile">
+    </item>
+    <item
+        android:id="@+id/nav_laptop"
+        android:icon="@drawable/icon_laptop"
+        android:title="Laptops &amp; Computers">
+    </item>
+    <item
+        android:id="@+id/nav_television"
+        android:icon="@drawable/icon_tv"
+        android:title="TV &amp; Audio System">
+    </item>
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/icon_camera"
+        android:title="Cameras">
+    </item>
+  <!--  <item
+        android:id="@+id/nav_men"
+        android:icon="@drawable/icon_men"
+        android:title="Men">
+    </item>
+    <item
+        android:id="@+id/nav_women"
+        android:icon="@drawable/icon_women"
+        android:title="Women">
+    </item>-->
+    <item
+        android:id="@+id/nav_home_appliances"
+        android:icon="@drawable/icon_home_kitchen"
+        android:title="Home &amp; Kitchen Appliances">
+    </item>
+    <item
+        android:id="@+id/nav_sports"
+        android:icon="@drawable/icon_sports"
+        android:title="Sports &amp; Accessories">
+    </item>
+    </group>
+</menu>

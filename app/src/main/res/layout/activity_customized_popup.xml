@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <TextView
+        android:id="@+id/cust_titletext"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="100dp"
+        android:background="#1990cf"
+        android:text="Top 10 Products"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/cust_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@android:color/white">
+
+    </android.support.v4.view.ViewPager>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#1990cf"/>
+</LinearLayout>
