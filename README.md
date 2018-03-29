@@ -1,6 +1,9 @@
 # Billspill
 
-This application uses accessbility services and provide overlay on Flipkart, Amazon, Snapdeal adn some other applications.You need to turn on Accessbility services and Draw overlay to this application. You might need to turn off battery optimization. For mi users please check main activity for required changes.
+This application uses accessbility services and provide overlay on Flipkart, Amazon, Snapdeal and some other applications.
+You need to turn on Accessbility services and Draw overlay to this application. 
+You might need to turn off battery optimization. 
+For mi users please check main activity for required changes.
 
 BillSpill- The Assistant provides BillSpill search, compare prices, get price alert, find deals-offers and much more across all e-commerce platforms including flight and hotel bookings.
 
