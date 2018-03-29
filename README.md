@@ -1,6 +1,6 @@
 # Billspill
 
-This application uses accessbility services and provide overlay on Flipkart, Amazon, Snapdeal and some other applications on product detail page.
+This application uses accessbility services and provide overlay on Flipkart, Amazon, Snapdeal and some other applications on product detail activity.
 You need to turn on Accessbility services and Draw overlay to this application. 
 You might need to turn off battery optimization. 
 For mi users please check main activity for required changes.
